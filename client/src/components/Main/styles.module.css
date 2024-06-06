@@ -1,0 +1,118 @@
+.navbar {
+	width: 100%;
+	height: 70px;
+	background-color: #62afa1;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 20px; /* Dodane w celu dodania odstępu na bokach */
+  }
+  
+  .navbar h1 {
+	color: white;
+	font-size: 25px;
+  }
+  
+  .white_btn {
+	border: none;
+	outline: none;
+	padding: 12px 20px; /* Zwiększenie odstępu wewnątrz przycisków */
+	background-color: white;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+  }
+  
+  .select {
+	appearance: none;
+	padding: 12px 20px; /* Zwiększenie odstępu wewnątrz select */
+	background-color: white;
+	border-radius: 20px;
+	border: 1px solid #ccc;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+  }
+  
+  .centered {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	margin-top: 20px; 
+  }
+  
+  
+.navbar h1 {
+	color: white;
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.white_btn {
+	border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: white;
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 20px;
+}
+
+.navbar {
+	width: 100%;
+	height: 70px;
+	background-color: #11d1ae;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+  }
+  
+  .navbar h1 {
+	color: white;
+	font-size: 25px;
+	margin-left: 20px;
+  }
+  
+  .white_btn {
+	border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: white;
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 20px;
+  }
+  
+  select.white_btn {
+	appearance: none;
+	padding: 12px 10px;
+	background-color: white;
+	border-radius: 20px;
+	border: 1px solid #ccc;
+	width: 140px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 20px;
+  }
+  
+  .conversion_message {
+	margin-top: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	background-color: #e6ffe6;
+	color: #333;
+	font-size: 16px;
+	border-radius: 4px;
+  }
+  
+  
