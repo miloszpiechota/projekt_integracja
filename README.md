@@ -1,5 +1,4 @@
 
-https://github.com/miloszpiechota/projekt_integracja/assets/161620373/b3220b93-16fb-41b0-87eb-6b3dc10d89b3
 # Wstęp
 
 
