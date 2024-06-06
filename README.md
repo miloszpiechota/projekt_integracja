@@ -1,6 +1,7 @@
 # Konfiguracja środowiska
 # Uruchomienie aplikacji
-Aby uruchomić aplikację należy pobrać wszystkie wymagane biblioteki po stronie klienta i serwera za pomocą polecenia `npm install`
+Aby uruchomić aplikację należy:
+1. Pobrać wszystkie wymagane biblioteki po stronie klienta i serwera za pomocą polecenia `npm install`
 
 client@0.1.0 
 ├── @testing-library/jest-dom@5.17.0
@@ -34,6 +35,20 @@ server@1.0.0
 ├── matplotlib@1.0.0
 ├── mongoose@8.4.0
 ├── nodemon@3.1.0
-├── pandas@0.0.3
+├── pandas@0.0.
 ├── path@0.12.7
 └── xml2js@0.6.2
+
+3. Stworzyć plik .env w katalogu serwera z konfiguracją bazy danych.
+
+```
+# dodaj ciąg bazy danych
+DB=mongodb+srv://<user_name>:<password>@cluster0.p0xww3d.mongodb.net/?retryWrites=true&w=majority&appName=<cluster>
+# ustaw port
+PORT=8080
+# klucz prywatny używany do podpisywania tokenów JWT
+JWTPRIVATEKEY=abcdefg
+#generowanie soli podczas hashowania haseł 
+SALT=10
+```
+
