@@ -1,3 +1,7 @@
+# Wstęp
+
+
+
 # Konfiguracja środowiska
 # Uruchomienie aplikacji
 Aby uruchomić aplikację należy:
@@ -51,4 +55,27 @@ JWTPRIVATEKEY=abcdefg
 #generowanie soli podczas hashowania haseł 
 SALT=10
 ```
+
+4. Upewnić się, że client i server działają na tym samym porcie
+5. Uruchom aplikację servera i klienta poleceniem "npm start"
+
+# Autoryzacja tokenem
+# Rejestracja użytkownika
+
+
+
+# Logowanie użytkownika
+# Generowanie wykresów
+# Wyszukiwanie danych
+# Konwersja danych
+## Konwersja XML -> JSON
+## Konwersja XML -> YAML
+## Konwersja CSV -> JSON
+## Konwersja XML -> CSV
+# Import danych z bazy danych
+# Export danych z bazy danych
+# Wyświetlenie użytkowników
+# Usunuęcie konta użytkownika
+# Wylogowanie użytkownika
+
 
