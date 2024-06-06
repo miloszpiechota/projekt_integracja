@@ -1,3 +1,5 @@
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/b3220b93-16fb-41b0-87eb-6b3dc10d89b3
 # Wstęp
 
 
@@ -62,20 +64,72 @@ SALT=10
 # Autoryzacja tokenem
 # Rejestracja użytkownika
 
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/abe179ca-321c-4713-8489-1c06e8f8b95f
+
 
 
 # Logowanie użytkownika
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/15b66526-d079-478c-866b-d85c39634bf3
+
+
 # Generowanie wykresów
+
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/030beae5-0302-428f-a54c-9de8ce5e206d
+
+
 # Wyszukiwanie danych
+
+
 # Konwersja danych
+
 ## Konwersja XML -> JSON
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/61d8cb33-6574-4f49-85b8-5dfd4d13e082
+
+
 ## Konwersja XML -> YAML
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/a48c4575-f0d2-4277-af6f-ce11198a93a8
+
+
 ## Konwersja CSV -> JSON
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/fb9c9918-faef-43af-b5a9-c7ac7be367e0
+
+
 ## Konwersja XML -> CSV
-# Import danych z bazy danych
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/faf881dc-cbf5-48dc-9fc3-5622ba3d91f3
+
 # Export danych z bazy danych
+
+
+# Import danych z bazy danych
+
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/993c404a-5d4a-45fe-a112-f7976ad42b91
+
+
 # Wyświetlenie użytkowników
+
+
 # Usunuęcie konta użytkownika
+
+
+
+https://github.com/miloszpiechota/projekt_integracja/assets/161620373/1d54c097-7e6d-465f-a3e3-eb2776de45d8
+
+
+
 # Wylogowanie użytkownika
 
 
