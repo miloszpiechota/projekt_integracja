@@ -1,6 +1,11 @@
+# Sprawozdanie - Projekt Integracja Systemów 
+# Temat - Zestawienie danych dotyczących rozwoju przemysłu i stanu środowiska naturalnego
+
+# Miłosz Piechota IO 6.7, Grzegorz Rogowski IO 6.7
 
 # Wstęp
 
+Na podstawie danych związanych z poziomem rozwoju gospodarki kraju i współczynnika zalesienia stworzyliśmy aplikację umożliwiającą założenie własnego konta oraz analizę danych pobranych z datasets [forest_area.xml](https://discord.com/channels/@me/1240323630752333825/1247252861075853363 ) oraz [industrial_development.csv](https://discord.com/channels/@me/1240323630752333825/1247252861075853363 )
 
 
 # Konfiguracja środowiska
