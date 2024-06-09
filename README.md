@@ -24,7 +24,7 @@
 
 # Wstęp
 
-Na podstawie danych związanych z poziomem rozwoju gospodarki kraju i współczynnika zalesienia stworzyliśmy aplikację umożliwiającą założenie własnego konta oraz analizę danych 1960-2023 pobranych z datasets [forest_area.xml](https://data.worldbank.org/indicator/AG.LND.FRST.ZS ), [industrial_development.csv](https://data.worldbank.org/indicator/NV.IND.TOTL.ZS ), [CO2_emissions.csv](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC ) na podstawie czego użytkownik ma możliwość wyszukiwać dane konkretnego kraju z pliku co2_emissions.xml (kraj, kod kraju), konwertować dane, exportować i importować dane do bazy MongoDB Atlas oraz modyfikując plik generate_charts.py generować wykresy zależności pomiędzy danymi ograniczając się do konkretnych państw. Dodatkowe funkcjie to usunięcie konta użytkownika lub wyświetlenie wszytskich użytkowników.
+Na podstawie danych związanych z poziomem rozwoju gospodarki kraju i współczynnika zalesienia stworzyliśmy aplikację w technologii MERN stack (client-server) i Python umożliwiającą założenie własnego konta oraz analizę danych 1960-2023 pobranych z datasets [forest_area.xml](https://data.worldbank.org/indicator/AG.LND.FRST.ZS ), [industrial_development.csv](https://data.worldbank.org/indicator/NV.IND.TOTL.ZS ), [CO2_emissions.csv](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC ) na podstawie czego użytkownik ma możliwość wyszukiwać dane konkretnego kraju z pliku co2_emissions.xml (kraj, kod kraju), konwertować dane, exportować i importować dane do bazy MongoDB Atlas oraz modyfikując plik generate_charts.py generować wykresy zależności pomiędzy danymi ograniczając się do konkretnych państw. Dodatkowe funkcjie to usunięcie konta użytkownika lub wyświetlenie wszytskich użytkowników.
 
 
 
