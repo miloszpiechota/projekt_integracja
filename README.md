@@ -3,6 +3,25 @@
 
 # Miłosz Piechota IO 6.7, Grzegorz Rogowski IO 6.7
 
+# Spis Treści
+
+1. [Wprowadzenie](#wprowadzenie)
+2. [Konfiguracja środowiska](#konfiguracja-środowiska)
+3. [Uruchomienie aplikacji](#uruchomienie-aplikacji)
+4. [Autoryzacja tokenem](#autoryzacja-tokenem)
+5. [Rejestracja użytkownika](#rejestracja-użytkownika)
+6. [Logowanie użytkownika](#logowanie-użytkownika)
+7. [Generowanie wykresów](#generowanie-wykresów)
+8. [Wnioski na podstawie wykresów](#wnioski-na-podstawie-wykresów)
+9. [Wyszukiwanie danych z CO2-emmissions.csv](#wyszukiwanie-danych-z-co2-emmissionscsv)
+10. [Konwersja danych](#konwersja-danych)
+11. [Import i Export danych z bazy danych](#import-i-export-danych-z-bazy-danych)
+12. [Wyświetlenie użytkowników lub usunięcie konta użytkownika](#wyświetlenie-użytkowników-lub-usunięcie-konta-użytkownika)
+13. [Wylogowanie użytkownika](#wylogowanie-użytkownika)
+14. [Wnioski na podstawie całego projektu](#wnioski-na-podstawie-całego-projektu)
+
+    
+
 # Wstęp
 
 Na podstawie danych związanych z poziomem rozwoju gospodarki kraju i współczynnika zalesienia stworzyliśmy aplikację umożliwiającą założenie własnego konta oraz analizę danych 1960-2023 pobranych z datasets [forest_area.xml](https://data.worldbank.org/indicator/AG.LND.FRST.ZS ), [industrial_development.csv](https://data.worldbank.org/indicator/NV.IND.TOTL.ZS ), [CO2_emissions.csv](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC ) na podstawie czego użytkownik ma możliwość wyszukiwać dane konkretnego kraju z pliku co2_emissions.xml (kraj, kod kraju), konwertować dane, exportować i importować dane do bazy MongoDB Atlas oraz modyfikując plik generate_charts.py generować wykresy zależności pomiędzy danymi ograniczając się do konkretnych państw. Dodatkowe funkcjie to usunięcie konta użytkownika lub wyświetlenie wszytskich użytkowników.
