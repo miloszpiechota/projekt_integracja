@@ -124,7 +124,7 @@ Przykładowa analiza wykresu zależności współczynnika rozwoju gospodarki do 
 ![image](https://github.com/miloszpiechota/projekt_integracja/assets/161620373/5dc34ea8-76d9-4296-8c46-a12b5993510b)
 
 # Wnioski na podstawie wykresów
-Na podstawie tego wykresu widać, że dane pobrane z datasets forest_area.xml nie są kompletne na przestrzeni lat 1960-1990 czego przyczyną są wartości null współczynnika zalesienia danego kraju co skutkuje brakiem linii na wykresie w tych latach. Dodatkowo porównując współczynnik rozwoju gospodarki do współczynnika zalesienia możemy wywnioskować, że w przypadku Francji wraz ze spadkiem rozwoju gospodarki wzrasta zalesienie tego państwa.
+Na podstawie tego wykresu widać, że dane pobrane z datasets forest_area.xml nie są kompletne na przestrzeni lat 1960-1990 czego przyczyną są wartości null współczynnika zalesienia danego kraju co skutkuje brakiem linii na wykresie w tych latach. Dodatkowo porównując współczynnik udziału przemysłu w PKB do współczynnika zalesienia możemy wywnioskować, że w przypadku Francji wraz ze spadkiem procentu przemysłu w PKB wzrasta zalesienie tego państwa.
 
 
 
