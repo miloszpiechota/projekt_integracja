@@ -172,7 +172,9 @@ https://github.com/miloszpiechota/projekt_integracja/assets/161620373/a48c4575-f
 
 
 ## Konwersja CSV -> JSON
-
+- W bloku try używana jest biblioteka csvtojson, która konwertuje plik CSV na tablicę obiektów JSON
+- Po udanej konwersji, tablica JSON (jsonArray) jest zapisywana do pliku JSON za pomocą funkcji writeFileSync z biblioteki fs (File System).
+- JSON.stringify(jsonArray, null, 2) konwertuje tablicę JSON na czytelny format tekstowy z wcięciami.
 
 https://github.com/miloszpiechota/projekt_integracja/assets/161620373/fb9c9918-faef-43af-b5a9-c7ac7be367e0
 
